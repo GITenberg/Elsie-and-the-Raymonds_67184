@@ -1,5 +1,8 @@
 _repo: Elsie-and-the-Raymonds_67184
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67184-h/images/cover.jpg
 creator:
   author:
     agent_name: Finley, Martha
@@ -14,6 +17,8 @@ creator:
     - http://www.readseries.com/auth-dm/finley1.html
     - https://en.wikipedia.org/wiki/Martha_Finley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67184#Elsie-and-the-Raymonds
 gutenberg_issued: '2022-01-16'
 identifiers:
   gutenberg: '67184'
